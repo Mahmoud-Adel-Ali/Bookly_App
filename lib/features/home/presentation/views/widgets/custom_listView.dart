@@ -1,6 +1,6 @@
 // ignore_for_file: file_names
 
-import 'package:bookly_app/features/home/presentation/views/widgets/custom_listView_item.dart';
+import 'package:bookly_app/features/home/presentation/views/widgets/fetured_listView_item.dart';
 import 'package:flutter/material.dart';
 
 class CustomListView extends StatelessWidget {
@@ -8,6 +8,6 @@ class CustomListView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const CustomListViewItem();
+    return const FeturedListViewItem();
   }
 }
