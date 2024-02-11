@@ -1,24 +1,27 @@
-import 'package:bookly_app/core/utils/styles.dart';
-import 'package:bookly_app/features/home/presentation/views/widgets/custom_appbar.dart';
-import 'package:bookly_app/features/home/presentation/views/widgets/fetured_Books_ListView.dart';
+
+import 'package:bookly_app/core/utils/assets.dart';
 import 'package:flutter/material.dart';
 
-class HomeViewBody extends StatelessWidget {
-  const HomeViewBody({super.key});
+class FeturedListViewItem extends StatelessWidget {
+  const FeturedListViewItem({
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
-    return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 24),
+    return AspectRatio(
+      aspectRatio: 2.7 / 4,//width / height
       child: Container(
-        child: const Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            CustomAppBar(),
-            FeturedBooksListView(),
-            const SizedBox(height: 16),
-            Text("Best Seller",style: Styles.titleMedium,)
-          ],
+        
+        decoration:  BoxDecoration(
+          borderRadius: BorderRadius.circular(16),
+          color: Colors.white,
+          image:const DecorationImage(
+            fit: BoxFit.cover,
+            image: AssetImage(
+              AssetsData.testImage,
+            ),
+          ),
         ),
       ),
     );
