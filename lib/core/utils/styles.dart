@@ -9,7 +9,7 @@ abstract class Styles {
   static const textSyle20 = TextStyle(
     fontSize: 20,
     fontWeight: FontWeight.normal,
-    fontFamily: KGtSectraFine,
+    // fontFamily: KGtSectraFine,
   );
   static const textSyle30 = TextStyle(
     fontSize: 30,
