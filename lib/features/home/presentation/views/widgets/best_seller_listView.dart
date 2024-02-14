@@ -10,6 +10,8 @@ class BestSellerListView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Expanded(
       child: ListView.builder(
+        shrinkWrap: true,// meaning that => get the hieght of all children in list view
+        physics: const NeverScrollableScrollPhysics(),
         padding: EdgeInsets.zero,
         itemCount: 10,
         itemBuilder: (context, index) {

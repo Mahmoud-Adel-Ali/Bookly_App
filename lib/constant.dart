@@ -5,3 +5,4 @@ import 'dart:ui';
 const Color KPrimaryColor = Color(0xff100B20);
 const Duration KTransitionDuration = Duration(seconds: 2);
 const KGtSectraFine = "GT Sectra Fine";
+const double homeViewPadding = 30;
