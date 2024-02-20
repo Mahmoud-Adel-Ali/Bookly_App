@@ -1,0 +1,905 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 614,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "s-IH_x6ytuQC",
+      "etag": "XGkrvhlSaZc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s-IH_x6ytuQC",
+      "volumeInfo": {
+        "title": "The C# Programming Language (Covering C# 4.0), Portable Documents",
+        "authors": [
+          "Anders Hejlsberg",
+          "Mads Torgersen",
+          "Scott Wiltamuth",
+          "Peter Golde"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2010-10-31",
+        "description": "The popular C# programming language combines the high productivity of rapid application development languages with the raw power of C and C++. Updated to cover the new features of C# 4.0, including dynamic binding, named and optional parameters, and covariant and contravariant generic types, this release takes the language to the next level by adding the ability to cleanly write programs that don’t rely on static type definitions. This allows dynamic programming languages such as Python, Ruby, and JavaScript to feel native to C#. The C# Programming Language, Fourth Edition, continues to be the authoritative and annotated technical reference for C# 4.0. 7nbsp; Written by Anders Hejlsberg, the language’s architect, and his colleagues, Mads Torgersen, Scott Wiltamuth, and Peter Golde, this volume has been completely updated for C# 4.0. The book provides the complete specification of the language, along with descriptions, reference materials, code samples, and annotations from twelve prominent C# gurus. The many annotations bring a depth and breadth of understanding rarely found in any programming book. As the main text of the book introduces the concepts of the C# language, cogent annotations explain why they are important, how they are used, how they relate to other languages, and even how they evolved. This book is the definitive, must-have reference for any developer who wants to understand C#. With annotations from: Brad Abrams, Joseph Albahari, Krzysztof Cwalina, Jesse Liberty, Eric Lippert, Christian Nagel, Vladimir Reshetnikov, Marek Safar, Chris Sells, Peter Sestoft, Jon Skeet, and Bill Wagner.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780132481724"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0132481723"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1072,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.10.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s-IH_x6ytuQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s-IH_x6ytuQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=s-IH_x6ytuQC&printsec=frontcover&dq=programming&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=s-IH_x6ytuQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=s-IH_x6ytuQC"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 688.51,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 688.51,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=s-IH_x6ytuQC&rdid=book-s-IH_x6ytuQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 688510000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 688510000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s-IH_x6ytuQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is the definitive, must-have reference for any developer who wants to understand C#. With annotations from: Brad Abrams Joseph Albahari Krzysztof Cwalina Jesse Liberty Eric Lippert Christian Nagel Vladimir Reshetnikov Marek Safar ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MJZGDwAAQBAJ",
+      "etag": "6qZXdZLXANg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MJZGDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Learning C++ Functional Programming",
+        "authors": [
+          "Wisnu Anggoro"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2017-08-10",
+        "description": "Apply Functional Programming techniques to C++ to build highly modular, testable, and reusable code About This Book Modularize your applications and make them highly reusable and testable Get familiar with complex concepts such as metaprogramming, concurrency, and immutability A highly practical guide to building functional code in C++ filled with lots of examples and real-world use cases Who This Book Is For This book is for C++ developers comfortable with OOP who are interested in learning how to apply the functional paradigm to create robust and testable apps. What You Will Learn Get to know the difference between imperative and functional approaches See the use of first-class functions and pure functions in a functional style Discover various techniques to apply immutable state to avoid side effects Design a recursive algorithm effectively Create faster programs using lazy evaluation Structure code using design patterns to make the design process easier Use concurrency techniques to develop responsive software Learn how to use the C++ Standard Template Library and metaprogramming in a functional way to improve code optimization In Detail Functional programming allows developers to divide programs into smaller, reusable components that ease the creation, testing, and maintenance of software as a whole. Combined with the power of C++, you can develop robust and scalable applications that fulfill modern day software requirements. This book will help you discover all the C++ 17 features that can be applied to build software in a functional way. The book is divided into three modules—the first introduces the fundamentals of functional programming and how it is supported by modern C++. The second module explains how to efficiently implement C++ features such as pure functions and immutable states to build robust applications. The last module describes how to achieve concurrency and apply design patterns to enhance your application's performance. Here, you will also learn to optimize code using metaprogramming in a functional way. By the end of the book, you will be familiar with the functional approach of programming and will be able to use these techniques on a daily basis. Style and approach This book uses a module-based approach, where each module will cover important aspects of functional programming in C++ and will help you develop efficient and robust applications through gaining a practical understanding.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781787280588"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1787280586"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 298,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MJZGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MJZGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=MJZGDwAAQBAJ&printsec=frontcover&dq=programming&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MJZGDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MJZGDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1549.47,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 1549.47,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MJZGDwAAQBAJ&rdid=book-MJZGDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1549470000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1549470000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MJZGDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Apply Functional Programming techniques to C++ to build highly modular, testable, and reusable code About This Book Modularize your applications and make them highly reusable and testable Get familiar with complex concepts such as ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2tAwEAAAQBAJ",
+      "etag": "YUBNxA6oWOo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2tAwEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Expert Python Programming",
+        "subtitle": "Master Python by learning the best coding practices and advanced programming concepts, 4th Edition",
+        "authors": [
+          "Michał Jaworski",
+          "Tarek Ziadé"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2021-05-28",
+        "description": "Gain a deep understanding of building, maintaining, packaging, and shipping robust Python applications Key FeaturesDiscover the new features of Python, such as dictionary merge, the zoneinfo module, and structural pattern matchingCreate manageable code to run in various environments with different sets of dependenciesImplement effective Python data structures and algorithms to write, test, and optimize codeBook Description This new edition of Expert Python Programming provides you with a thorough understanding of the process of building and maintaining Python apps. Complete with best practices, useful tools, and standards implemented by professional Python developers, this fourth edition has been extensively updated. Throughout this book, you’ll get acquainted with the latest Python improvements, syntax elements, and interesting tools to boost your development efficiency. The initial few chapters will allow experienced programmers coming from different languages to transition to the Python ecosystem. You will explore common software design patterns and various programming methodologies, such as event-driven programming, concurrency, and metaprogramming. You will also go through complex code examples and try to solve meaningful problems by bridging Python with C and C++, writing extensions that benefit from the strengths of multiple languages. Finally, you will understand the complete lifetime of any application after it goes live, including packaging and testing automation. By the end of this book, you will have gained actionable Python programming insights that will help you effectively solve challenging problems. What you will learnExplore modern ways of setting up repeatable and consistent Python development environmentsEffectively package Python code for community and production useLearn modern syntax elements of Python programming, such as f-strings, enums, and lambda functionsDemystify metaprogramming in Python with metaclassesWrite concurrent code in PythonExtend and integrate Python with code written in C and C++Who this book is for The Python programming book is intended for expert programmers who want to learn Python’s advanced-level concepts and latest features. Anyone who has basic Python skills should be able to follow the content of the book, although it might require some additional effort from less experienced programmers. It should also be a good introduction to Python 3.9 for those who are still a bit behind and continue to use other older versions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781801076197"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1801076197"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 631,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2tAwEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2tAwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=2tAwEAAAQBAJ&printsec=frontcover&dq=programming&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2tAwEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2tAwEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1408.58,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 1408.58,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2tAwEAAAQBAJ&rdid=book-2tAwEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1408580000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1408580000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2tAwEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Gain a deep understanding of building, maintaining, packaging, and shipping robust Python applications Key FeaturesDiscover the new features of Python, such as dictionary merge, the zoneinfo module, and structural pattern matchingCreate ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b-2oDwAAQBAJ",
+      "etag": "IPc8Vcd6s4w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b-2oDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Python Programming in Context",
+        "authors": [
+          "Bradley N. Miller",
+          "David L. Ranum",
+          "Julie Anderson"
+        ],
+        "publisher": "Jones & Bartlett Learning",
+        "publishedDate": "2019-10-01",
+        "description": "Python Programming in Context, Third Edition provides a comprehensive and accessible introduction to Python fundamentals. Updated with the latest version of Python, the new Third Edition offers a thorough overview of multiple applied areas, including image processing, cryptography, astronomy, the Internet, and bioinformatics. Taking an active learning approach, each chapter starts with a comprehensive real-world project that teaches core design techniques and Python programming while engaging students. An ideal first language for learners entering the rapidly expanding field of computer science, Python gives students a solid platform of key problem-solving skills that translate easily across programming languages.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781284175554"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1284175553"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 516,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b-2oDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b-2oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=b-2oDwAAQBAJ&printsec=frontcover&dq=programming&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=b-2oDwAAQBAJ&dq=programming&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_Programming_in_Context.html?hl=&id=b-2oDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Python_Programming_in_Context-sample-pdf.acsm?id=b-2oDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b-2oDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Updated with the latest version of Python, the new Third Edition offers a thorough overview of multiple applied areas, including image processing, cryptography, astronomy, the Internet, and bioinformatics."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "enAZAQAAIAAJ",
+      "etag": "A8B9Mo/wLHI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/enAZAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Science of Programming",
+        "authors": [
+          "David Gries"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "1981",
+        "description": "Describes basic programming principles and their step-by- step applications.Numerous examples are included.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105031979383"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 392,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=enAZAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=enAZAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=enAZAQAAIAAJ&q=programming&dq=programming&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=enAZAQAAIAAJ&dq=programming&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Science_of_Programming.html?hl=&id=enAZAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=enAZAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Describes basic programming principles and their step-by- step applications.Numerous examples are included."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zlbSBQAAQBAJ",
+      "etag": "uthybUlwPWg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zlbSBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Introduction to Programming Languages",
+        "authors": [
+          "Arvind Kumar Bansal"
+        ],
+        "publisher": "CRC Press",
+        "publishedDate": "2013-12-17",
+        "description": "In programming courses, using the different syntax of multiple languages, such as C++, Java, PHP, and Python, for the same abstraction often confuses students new to computer science. Introduction to Programming Languages separates programming language concepts from the restraints of multiple language syntax by discussing the concepts at an abstrac",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781466565159"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1466565152"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 624,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zlbSBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zlbSBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=zlbSBQAAQBAJ&printsec=frontcover&dq=programming&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zlbSBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zlbSBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3796.79,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 3796.79,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zlbSBQAAQBAJ&rdid=book-zlbSBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3796790000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3796790000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Introduction_to_Programming_Languages-sample-pdf.acsm?id=zlbSBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zlbSBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Introduction to Programming Languages separates programming language concepts from the restraints of multiple language syntax by discussing the concepts at an abstrac"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bIxWAgAAQBAJ",
+      "etag": "rJE9NQePKZ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bIxWAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Masterminds of Programming",
+        "subtitle": "Conversations with the Creators of Major Programming Languages",
+        "authors": [
+          "Federico Biancuzzi",
+          "Chromatic"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2009-03-21",
+        "description": "Masterminds of Programming features exclusive interviews with the creators of several historic and highly influential programming languages. In this unique collection, you'll learn about the processes that led to specific design decisions, including the goals they had in mind, the trade-offs they had to make, and how their experiences have left an impact on programming today. Masterminds of Programming includes individual interviews with: Adin D. Falkoff: APL Thomas E. Kurtz: BASIC Charles H. Moore: FORTH Robin Milner: ML Donald D. Chamberlin: SQL Alfred Aho, Peter Weinberger, and Brian Kernighan: AWK Charles Geschke and John Warnock: PostScript Bjarne Stroustrup: C++ Bertrand Meyer: Eiffel Brad Cox and Tom Love: Objective-C Larry Wall: Perl Simon Peyton Jones, Paul Hudak, Philip Wadler, and John Hughes: Haskell Guido van Rossum: Python Luiz Henrique de Figueiredo and Roberto Ierusalimschy: Lua James Gosling: Java Grady Booch, Ivar Jacobson, and James Rumbaugh: UML Anders Hejlsberg: Delphi inventor and lead developer of C# If you're interested in the people whose vision and hard work helped shape the computer industry, you'll find Masterminds of Programming fascinating.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780596550943"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0596550944"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bIxWAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bIxWAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=bIxWAgAAQBAJ&printsec=frontcover&dq=programming&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.eg/books?id=bIxWAgAAQBAJ&dq=programming&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Masterminds_of_Programming.html?hl=&id=bIxWAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bIxWAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this unique collection, you&#39;ll learn about the processes that led to specific design decisions, including the goals they had in mind, the trade-offs they had to make, and how their experiences have left an impact on programming today."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0zozEAAAQBAJ",
+      "etag": "pKelV/E+nsM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0zozEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Functional Programming in C#",
+        "subtitle": "How to write better C# code",
+        "authors": [
+          "Enrico Buonanno"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2017-08-12",
+        "description": "Summary Functional Programming in C# teaches you to apply functional thinking to real-world problems using the C# language. The book, with its many practical examples, is written for proficient C# programmers with no prior FP experience. It will give you an awesome new perspective. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. About the Technology Functional programming changes the way you think about code. For C# developers, FP techniques can greatly improve state management, concurrency, event handling, and long-term code maintenance. And C# offers the flexibility that allows you to benefit fully from the application of functional techniques. This book gives you the awesome power of a new perspective. About the Book Functional Programming in C# teaches you to apply functional thinking to real-world problems using the C# language. You'll start by learning the principles of functional programming and the language features that allow you to program functionally. As you explore the many practical examples, you'll learn the power of function composition, data flow programming, immutable data structures, and monadic composition with LINQ. What's Inside Write readable, team-friendly code Master async and data streams Radically improve error handling Event sourcing and other FP patterns About the Reader Written for proficient C# programmers with no prior FP experience. About the Author Enrico Buonanno studied computer science at Columbia University and has 15 years of experience as a developer, architect, and trainer. Table of Contents PART 1 - CORE CONCEPTS Introducing functional programming Why function purity matters Designing function signatures and types Patterns in functional programming Designing programs with function composition PART 2 - BECOMING FUNCTIONAL Functional error handling Structuring an application with functions Working effectively with multi-argument functions Thinking about data functionally Event sourcing: a functional approach to persistence PART 3 - ADVANCED TECHNIQUES Lazy computations, continuations, and the beauty of monadic composition Stateful programs and stateful computations Working with asynchronous computations Data streams and the Reactive Extensions An introduction to message-passing concurrency",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781638354048"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1638354049"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 598,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0zozEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0zozEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=0zozEAAAQBAJ&printsec=frontcover&dq=programming&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0zozEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0zozEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1373.29,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 1373.29,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0zozEAAAQBAJ&rdid=book-0zozEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1373290000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1373290000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Functional_Programming_in_C-sample-epub.acsm?id=0zozEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0zozEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book gives you the awesome power of a new perspective. About the Book Functional Programming in C# teaches you to apply functional thinking to real-world problems using the C# language."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vZvIzaQbMYwC",
+      "etag": "3+jsxe3Lnp8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vZvIzaQbMYwC",
+      "volumeInfo": {
+        "title": "Algorithms and Programming",
+        "subtitle": "Problems and Solutions",
+        "authors": [
+          "Alexander Shen"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2011-03-23",
+        "description": "This text is structured in a problem-solution format that requires the student to think through the programming process. New to the second edition are additional chapters on suffix trees, games and strategies, and Huffman coding as well as an Appendix illustrating the ease of conversion from Pascal to C.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781441917485"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1441917489"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "categories": [
+          "Mathematics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vZvIzaQbMYwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vZvIzaQbMYwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=vZvIzaQbMYwC&printsec=frontcover&dq=programming&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vZvIzaQbMYwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vZvIzaQbMYwC"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1811.86,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 1811.86,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vZvIzaQbMYwC&rdid=book-vZvIzaQbMYwC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1811860000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1811860000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Algorithms_and_Programming-sample-pdf.acsm?id=vZvIzaQbMYwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vZvIzaQbMYwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This text is structured in a problem-solution format that requires the student to think through the programming process."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9YVaEAAAQBAJ",
+      "etag": "LJCqJRX6qWg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9YVaEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Elementary Synchronous Programming",
+        "subtitle": "in C++ and Java via algorithms",
+        "authors": [
+          "Ali S. Janfada"
+        ],
+        "publisher": "Walter de Gruyter GmbH & Co KG",
+        "publishedDate": "2019-06-04",
+        "description": "Algorithms are the essence of programming. After their construction, they have to be translated to the codes of a specific programming language. There exists a maximum of ten basic algorithmic templates. This textbook aims to provide the reader with a more convenient and efficient method to create a program by translating algorithms, template by template with C++ and Java. This is the slogan of the book: You will be a professional programmer whenever you become a skilled algorithm designer. This book attempts to gradually strengthen the readers’ ability to identify and analyze the mental commands which are issued and implemented in their brains for solving the problems in which mathematical computations are applied and try to design an algorithm based on their understanding and analyses. It then seeks to encourage the readers to develop their skills in algorithm-writing for computational problems and synchronously teach them to translate the algorithms into C++ and Java codes using the least necessary keywords.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783110616736"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3110616734"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 513,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9YVaEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9YVaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.eg/books?id=9YVaEAAAQBAJ&printsec=frontcover&dq=programming&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9YVaEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9YVaEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "EG",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1901.69,
+          "currencyCode": "EGP"
+        },
+        "retailPrice": {
+          "amount": 1901.69,
+          "currencyCode": "EGP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9YVaEAAAQBAJ&rdid=book-9YVaEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1901690000,
+              "currencyCode": "EGP"
+            },
+            "retailPrice": {
+              "amountInMicros": 1901690000,
+              "currencyCode": "EGP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "EG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Elementary_Synchronous_Programming-sample-epub.acsm?id=9YVaEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.eg/books/download/Elementary_Synchronous_Programming-sample-pdf.acsm?id=9YVaEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9YVaEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the slogan of the book: You will be a professional programmer whenever you become a skilled algorithm designer."
+      }
+    }
+  ]
+
+}
