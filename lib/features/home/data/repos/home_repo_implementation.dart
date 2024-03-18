@@ -14,7 +14,7 @@ class HomeRepoImple extends HomeRepo {
     try {
       List<BookModel> book = [];
       var data = await apiService.get(
-          endPoint: "volumes?Filtering=free-ebooks&q=subject:programming");
+          endPoint: "https://www.googleapis.com/books/v1/volumes?q=subject:programming&Sorting=newest");
       for (var item in data["items"]) {
         book.add(BookModel.fromJson(item));
       }
@@ -28,7 +28,20 @@ class HomeRepoImple extends HomeRepo {
   }
 
   @override
-  Future<Either<Failure, List<BookModel>>> fetchFeatureBooks() {
-    throw UnimplementedError();
+  Future<Either<Failure, List<BookModel>>> fetchFeatureBooks() async{
+    try {
+      List<BookModel> book = [];
+      var data = await apiService.get(
+          endPoint: "volumes?Filtering=free-ebooks&q=subject:programming");
+      for (var item in data["items"]) {
+        book.add(BookModel.fromJson(item));
+      }
+      return right(book);
+    } catch (e) {
+      if (e is DioError) {
+        return left(ServerFailure.fromDioError(e));
+      }
+      return left(ServerFailure(e.toString()));
+    }
   }
 }
